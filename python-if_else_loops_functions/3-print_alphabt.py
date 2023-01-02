@@ -1,5 +1,5 @@
 #!/usr/bin/python3  
-for alpha_letters in range(ord('a'), ord('z')+1):
-    if alpha_letters == 'e' or alpha_letters == 'q':
-       break
-    print("{:c}".format(alpha_letters), end="")
+for letter_code in range(ord('a'), ord('z')+1):
+    letter = chr(letter_code)
+    if letter not in "qe":
+        print(letter, end="")
