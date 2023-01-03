@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-for i in range(ord('z'), ord('a')-1, -1):
-    if i % 2 != 0:
-        i = i - 32
-    print("{:c}".format(i), end=" ")    
+for i in range(0,26,2):
+    print("{:c}{:c}".format(122 - i,(122 -i -l)-32),end=")
