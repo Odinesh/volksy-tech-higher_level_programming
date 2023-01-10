@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-def square(4):
+class square:
     """return the squares"""
     pass
