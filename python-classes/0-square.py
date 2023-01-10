@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-
 """square"""
+
+
 class square:
-    """return the squares"""
+    """represting the squares"""
     pass
