@@ -4,7 +4,7 @@
 
 class Square:
     "size"
-    def __init__(square,size=0):
+    def __init__(square, size=0):
 
         if type(size) != int:
             raise TypeError("value is not integer")
