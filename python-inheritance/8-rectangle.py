@@ -2,6 +2,7 @@
 """Rectangle"""
 
 
+
 class Rectangle(BaseGeometry):
     """Represent a rectangle using BaseGeometry."""
 
