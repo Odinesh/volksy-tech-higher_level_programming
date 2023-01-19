@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""load,save,add"""
-import json
+"""Add all arguments to a Python list and save them to a file."""
+import sys
+
 
 
 if __name__ == "__main__":
