@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""base"""
+"""base module cotains class base"""
 
 
 class Base():
