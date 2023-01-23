@@ -5,11 +5,9 @@
 class Base():
     """base class for checking the id for others class"""
 
-    
     __nb_objects = 0
 
-
-    def _init_(self,id=None):
+    def __init__(self, id=None):
         """initialization base class with id"""
         if id is not None:
             self.id = id
