@@ -1,2 +1,2 @@
 -- add table.
-INSEET INTO first_table VALUES(89,'BEST SCHOOL');
+INSEET INTO first_table(ID,NAME) VALUES(89,'BEST SCHOOL');
