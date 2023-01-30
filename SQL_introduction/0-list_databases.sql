@@ -1,2 +1,2 @@
-"""list database"""
+-- data base.
 SHOW DATABASE
