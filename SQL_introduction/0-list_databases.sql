@@ -1,2 +1,2 @@
 """list database"""
-show database
+SHOW DATABASE
