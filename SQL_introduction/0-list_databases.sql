@@ -1,2 +1,2 @@
 -- data base.
-SHOW DATABASE
+SHOW DATABASES;
